@@ -1,5 +1,7 @@
 # Ex02 Django ORM Web Application
 ## Date: 20.09.2025
+## name: MANIKANDAN G
+## ref no: 25002356
 
 ## AIM
 To develop a Django application to store and retrieve data from a Movies Database using Object Relational Mapping(ORM).
